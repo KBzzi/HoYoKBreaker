@@ -4,7 +4,14 @@
 
 目前只支持4.0 国服、国际服
 
+如果你有什么疑惑或者程序出现BUG，请报告问题
+
 This allows you to run the Genshin Impact without starting the drive protection
+
+Currently, only 4.0 Chinese version and global version are supported
+
+If you have any doubts or program bugs, please report the issue
+
 
 ## 使用方法How to use
 
