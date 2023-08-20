@@ -13,6 +13,11 @@ Currently, only 4.0 Chinese version and global version are supported
 If you have any doubts or program bugs, please report the issue
 
 
+注意：没有在全球版测试过，所以不能保证可以正常使用
+
+Note: It has not been tested in the global version, so normal use cannot be guaranteed
+
+
 ## 使用方法How to use
 
 1. 确保以下文件在HoYoKBreak.exe的根目录下
