@@ -1,12 +1,13 @@
 # HoYoKBreak
 
-这个可以使你运行未启动驱动保护的原神
+这个可以使你运行未启动驱动保护的某个二次元游戏
+
 
 目前只支持4.0 国服、国际服
 
 如果你有什么疑惑或者程序出现BUG，请报告问题
 
-This allows you to run the Genshin Impact without starting the drive protection
+This allows you to run Some anime game without starting the drive protection
 
 Currently, only 4.0 Chinese version and global version are supported
 
