@@ -1,4 +1,4 @@
-# HoYoKBreak
+# HoYoKBreak（已失效）
 
 这个可以使你运行未启动驱动保护的某个二次元游戏
 
