@@ -21,24 +21,20 @@ Note: It has not been tested in the global version, so normal use cannot be guar
 
 ## 使用方法How to use
 
-1. 确保以下文件在HoYoKBreak.exe的根目录下
+1. 确保以下文件在HoYoKBreaker.exe的根目录下
 
-2. Bak文件夹、config.ini
+2. Driver\HoYoKBPoretect.sys
 
-3. 在config.ini中的：[setting]--GamePath里填入你的游戏的位置，例如：GamePath = D:\Genshin Impact Game
+3. 以管理员运行HoYoKBreaker.exe
 
-4. 以管理员运行HoYoKBreaker.exe
-
-5. Enjoy game
+4. Enjoy game
 
    ##### English：
 
-1. Ensure that the following files are located in the root directory of HoYoKBreak.exe
+1. Ensure that the following files are located in the root directory of HoYoKBreaker.exe
 
-2. Bak folder, config.ini
+2. Driver\HoYoKBPoretect.sys
 
-3. Fill in the location of your game in [setting] - GamePath in config.ini, for example: GamePath=D: Genshin Impact Game
+3. Run HoYoKBreaker.exe as an administrator
 
-4. Run HoYoKBreaker.exe as an administrator
-
-5. Enjoy game
+4. Enjoy game
