@@ -1,15 +1,15 @@
-# HoYoKBreak（已失效）
+# HoYoKBreaker
 
 这个可以使你运行未启动驱动保护的某个二次元游戏
 
 
-目前只支持4.0.1 国服、国际服
+目前只支持4.1.0 国服、国际服
 
 如果你有什么疑惑或者程序出现BUG，请报告问题
 
 This allows you to run Some anime game without starting the drive protection
 
-Currently, only 4.0 Chinese version and global version are supported
+Currently, only 4.1.0 Chinese version and global version are supported
 
 If you have any doubts or program bugs, please report the issue
 
@@ -27,7 +27,7 @@ Note: It has not been tested in the global version, so normal use cannot be guar
 
 3. 在config.ini中的：[setting]--GamePath里填入你的游戏的位置，例如：GamePath = D:\Genshin Impact Game
 
-4. 双击打开HoYoKBreak.exe
+4. 以管理员运行HoYoKBreaker.exe
 
 5. Enjoy game
 
@@ -39,6 +39,6 @@ Note: It has not been tested in the global version, so normal use cannot be guar
 
 3. Fill in the location of your game in [setting] - GamePath in config.ini, for example: GamePath=D: Genshin Impact Game
 
-4. Double click to open HoYoKBreak.exe
+4. Run HoYoKBreaker.exe as an administrator
 
 5. Enjoy game
