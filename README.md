@@ -16,7 +16,7 @@ If you have any doubts or program bugs, please report the issue
 
 # 运行后的效果
 
-![屏幕截图 2023-11-09 140055](D:\.Program\cpp\HoYoKBreaker\pic\屏幕截图 2023-11-09 140055.png)
+![image](pic\2023-11-09 140055.png)
 
 
 ## 使用方法How to use
