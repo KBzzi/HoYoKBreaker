@@ -16,7 +16,7 @@ If you have any doubts or program bugs, please report the issue
 
 # 运行后的效果
 
-![image](pic\2023-11-09 140055.png)
+![image](https://github.com/KBzzi/HoYoKBreaker/blob/main/pic/2023-11-09%20140055.png)
 
 
 ## 使用方法How to use
