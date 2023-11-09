@@ -3,13 +3,13 @@
 这个可以使你运行未启动驱动保护的某个二次元游戏
 
 
-目前只支持4.1.0 国服、国际服
+目前只支持4.2.0 国服、国际服
 
 如果你有什么疑惑或者程序出现BUG，请报告问题
 
 This allows you to run Some anime game without starting the drive protection
 
-Currently, only 4.1.0 Chinese version and global version are supported
+Currently, only 4.2.0 Chinese version and global version are supported
 
 If you have any doubts or program bugs, please report the issue
 
@@ -21,20 +21,14 @@ Note: It has not been tested in the global version, so normal use cannot be guar
 
 ## 使用方法How to use
 
-1. 确保以下文件在HoYoKBreaker.exe的根目录下
 
-2. Driver\HoYoKBPoretect.sys
+1. 以管理员运行HoYoKBreaker.exe
 
-3. 以管理员运行HoYoKBreaker.exe
-
-4. Enjoy game
+2. Enjoy game
 
    ##### English：
 
-1. Ensure that the following files are located in the root directory of HoYoKBreaker.exe
 
-2. Driver\HoYoKBPoretect.sys
+1. Run HoYoKBreaker.exe as an administrator
 
-3. Run HoYoKBreaker.exe as an administrator
-
-4. Enjoy game
+2. Enjoy game
