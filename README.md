@@ -2,7 +2,7 @@
 
 This allows you to run Genshin Impact without starting the drive protection
 
-Currently, only 4.2.0 Chinese version and global version are supported
+Currently, only 4.3.0 Chinese version and global version are supported
 
 If you have any doubts or program bugs, please report the issue
 
